@@ -1,0 +1,8 @@
+{
+    "name": "Forge Neo Auto VRAM Purge",
+    "url": "https://github.com/ukr8b3g-cmyk/sd-webui-forge-neo-auto-vram-purge.git",
+    "description": "Automatically frees unused GPU memory after generation in Forge Neo, with lightweight cache cleanup and GPU model unload modes.",
+    "tags": [
+        "script"
+    ]
+}
