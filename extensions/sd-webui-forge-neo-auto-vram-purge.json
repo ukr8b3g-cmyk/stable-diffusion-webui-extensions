@@ -1,7 +1,7 @@
 {
     "name": "Forge Neo Auto VRAM Purge",
     "url": "https://github.com/ukr8b3g-cmyk/sd-webui-forge-neo-auto-vram-purge.git",
-    "description": "Optionally unloads GPU-resident models after generation in Forge Neo while leaving standard cache cleanup to Forge Neo itself.",
+    "description": "Idle-aware GPU model unloading for Forge Neo that avoids reload churn during continuous generation while returning VRAM after generation becomes idle.",
     "tags": [
         "script"
     ]
