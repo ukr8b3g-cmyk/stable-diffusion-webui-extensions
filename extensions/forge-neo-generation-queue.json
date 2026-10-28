@@ -1,0 +1,9 @@
+{
+    "name": "Forge Neo Generation Queue",
+    "url": "https://github.com/ukr8b3g-cmyk/Forge-Neo-Generation-Queue.git",
+    "description": "For Forge Neo: queue txt2img jobs with the existing Generate button. Sequential generation, a compact remaining-job count, individual cancellation, an optional Quicksettings toggle, and English/Japanese UI. Developed for Forge Neo with Gradio 4.40; other WebUI variants are not verified.",
+    "tags": [
+        "script",
+        "UI related"
+    ]
+}
